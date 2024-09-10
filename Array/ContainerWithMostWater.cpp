@@ -5,7 +5,7 @@ using namespace std;
 
 int maxArea(int height[],int n){
 
-    int i=0;
+    int i=0 ;
     int j=n-1;
 
     int lsf=0;
