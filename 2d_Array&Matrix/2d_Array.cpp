@@ -7,6 +7,7 @@ int main() {
     int m;
     cout<<"enter no. of row :";
     cin>>m;
+
     
     int n;
     cout<<"enter no of column :";
